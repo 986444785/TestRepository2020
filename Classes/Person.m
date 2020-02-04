@@ -21,6 +21,9 @@
     
     
     //pod trunk  register 986444785@qq.com "986444785" --verbose
+    
+    
+    //更新到 0.0.3版本
 
 }
 
